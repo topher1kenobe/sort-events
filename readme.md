@@ -1,4 +1,4 @@
-#Global Event Sorting
+# Global Event Sorting
 Contributors: topher1kenobe  
 Donate link: https://heropress.com/donate  
 Tags: events, custom post types  
