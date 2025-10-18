@@ -22,5 +22,5 @@ This plugin is intended to be used with a custom post type with the slug of `eve
 
 # Changelog
 
-##1.0.0
+## 1.0.0
 * Initial Release
